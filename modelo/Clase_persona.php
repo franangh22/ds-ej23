@@ -12,7 +12,7 @@
             echo "Nombre: " . $this->Nombre . "<br>";
             echo "Direccion: " . $this->Direccion . "<br>";
             echo "Nro Documento: " . $this->NroDoc . "<br>";
-            echo "Edad: " . $this->NroDoc . "<br>";
+            echo "Edad: " . $this->Edad . "<br>";
 
             echo "<hr>";
             echo "<--- Nacionalidad ---> <br>";

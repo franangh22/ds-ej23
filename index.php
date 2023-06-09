@@ -12,7 +12,7 @@
     $Per = new persona();
     $Per -> Nombre = "Walter White";
     $Per -> Direccion = "308 de Negra Arroyo Lane";
-    $Per -> NroDoc = "";
+    $Per -> NroDoc = 00000000;
     $Per -> Edad = 50;
     $Per -> Nacionalidad = $Nac;
     $Per -> MostrarDatos();

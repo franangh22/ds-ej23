@@ -11,6 +11,7 @@
             echo "<--- Persona ---> <br>";
             echo "Nombre: " . $this->Nombre . "<br>";
             echo "Direccion: " . $this->Direccion . "<br>";
+            echo "Nro Documento: " . $this->NroDoc . "<br>";
             echo "Edad: " . $this->NroDoc . "<br>";
 
             echo "<hr>";
